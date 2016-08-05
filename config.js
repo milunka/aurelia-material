@@ -17,7 +17,7 @@ System.config({
     "babel": "npm:babel-core@5.8.34",
     "babel-runtime": "npm:babel-runtime@5.8.34",
     "core-js": "npm:core-js@1.2.6",
-    "jquery": "github:components/jquery@2.1.4",
+    "jquery": "npm:jquery@2.2.4",
     "lodash": "npm:lodash@3.10.1",
     "material-design-lite": "github:milunka/material-design-lite@1.5.0",
     "github:jspm/nodelibs-assert@0.1.0": {
